@@ -1,0 +1,9 @@
+numpy
+scipy
+Pillow
+# Additional dependencies for ML, feedback and imaging cores:
+torch
+lightgbm
+bm3d
+osqp
+cvxpy
